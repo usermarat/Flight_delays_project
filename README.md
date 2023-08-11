@@ -1,6 +1,6 @@
 # Flight delays project
 
-![Network _map](https://github.com/usermarat/Flight_delays_project/assets/87779469/a9162128-d03d-4d6c-b53c-172f50a73180)
+![Network _map](https://github.com/usermarat/Flight_delays_project/assets/87779469/41ce09b6-e558-4226-bd23-32df52c12a96)
 
 This is the final data-science project I made at the completion of Data Analyst School provided by Sberbank Corporate University.
 
